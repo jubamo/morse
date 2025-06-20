@@ -30,8 +30,8 @@ const int pinMem3 = 38; //D3;                // Pulsador Memoria3
 const int pinSetup = 37; //D7;               // Pulsador Setup (Ajuste velocidad y tono)
 const int pinKeyDit = 36; //D5;              // Manipulador, paleta puntos
 const int pinKeyDah = 35; //D6;              // Manipulador, paleta rayas
-const int pinStatusLed = 34; //D4;           // Led builtin Azul placa ESP8266
-const int pinOnboardLed = 15; //A0;          // Led estado exterior
+const int pinStatusLed = 15; //D4;           // Led builtin Azul placa ESP8266
+const int pinOnboardLed = 34; //A0;          // Led estado exterior
 const int pinMosfet = 21; //D0;              // Key, jack salida emisora
 const int pinSpeaker = 18; //D8;             // Altavoz 
 
